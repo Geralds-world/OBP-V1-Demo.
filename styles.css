@@ -63,7 +63,7 @@ body {
 }
 
 .containerbody {
-    background-image: url("/images/main\ picture.png");
+    background-image: url("/OBP-V1-Demo./images/main\ picture.png");
     background-size: cover;
     width: 100%;
     
@@ -171,7 +171,7 @@ body {
     width: 790px;
     height: 440px;
     z-index: 2;
-    background-image: url(/Animal-images/main\ an1.png);
+    background-image: url(/OBP-V1-Demo./Animal-images/main\ an1.png);
     background-size: cover;
     background-position: center;
     overflow: hidden;
